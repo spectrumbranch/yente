@@ -1,0 +1,17 @@
+=============================
+	YENTE DOCS
+
+	-last updated 20121014 
+=============================
+
+Notes (under construction)
+
+< is a perfect match
+===< means mismatch
+syntax of output data: id[level]
+
+=============================
+
+Known bugs:
+- outcasting more players than what should be.
+- 44 players out of 1000 are missing.
